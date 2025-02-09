@@ -22,14 +22,6 @@ const App = () => {
         <Route path="/about" element={<About />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
-      <div className="p-4">
-        <h1 className="text-3xl font-bold mb-4">Message from Backend</h1>
-        {error ? (
-          <p className="text-red-500">{error}</p>
-        ) : (
-          <p className="text-lg">{message || "Loading..."}</p>
-        )}
-      </div>
     </div>
   );
 };
