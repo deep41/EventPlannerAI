@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Issues](https://img.shields.io/github/issues/nirmaljoji/grassroots)
+![Issues](https://img.shields.io/github/issues/deep41/grassroots)
 
 Empowering communities through AI-driven organizing tools. Make social impact accessible to all.
 
